@@ -1,0 +1,3 @@
+banana - 1 CAD
+apple - 2 CAD
+orange - 3 CAD
