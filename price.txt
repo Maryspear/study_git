@@ -1,3 +1,5 @@
 banana - 1 CAD
 apple - 4 CAD
 orange - 3 CAD
+cherry - 5 CAD
+pawpaw - 6 CAD
