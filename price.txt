@@ -3,3 +3,4 @@ apple - 4 CAD
 orange - 3 CAD
 cherry - 5 CAD
 pawpaw - 6 CAD
+grapes - 11 CAD
